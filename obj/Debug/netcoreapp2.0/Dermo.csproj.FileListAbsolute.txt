@@ -1,0 +1,11 @@
+E:\core2.0\Dermo\Dermo\bin\Debug\netcoreapp2.0\Dermo.deps.json
+E:\core2.0\Dermo\Dermo\bin\Debug\netcoreapp2.0\Dermo.runtimeconfig.json
+E:\core2.0\Dermo\Dermo\bin\Debug\netcoreapp2.0\Dermo.runtimeconfig.dev.json
+E:\core2.0\Dermo\Dermo\bin\Debug\netcoreapp2.0\Dermo.dll
+E:\core2.0\Dermo\Dermo\bin\Debug\netcoreapp2.0\Dermo.pdb
+E:\core2.0\Dermo\Dermo\obj\Debug\netcoreapp2.0\Dermo.csprojResolveAssemblyReference.cache
+E:\core2.0\Dermo\Dermo\obj\Debug\netcoreapp2.0\Dermo.csproj.CoreCompileInputs.cache
+E:\core2.0\Dermo\Dermo\obj\Debug\netcoreapp2.0\Dermo.AssemblyInfoInputs.cache
+E:\core2.0\Dermo\Dermo\obj\Debug\netcoreapp2.0\Dermo.AssemblyInfo.cs
+E:\core2.0\Dermo\Dermo\obj\Debug\netcoreapp2.0\Dermo.dll
+E:\core2.0\Dermo\Dermo\obj\Debug\netcoreapp2.0\Dermo.pdb
